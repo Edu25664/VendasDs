@@ -6,25 +6,17 @@ function Footer() {
           <p className="text-light">
             App desenvolvido por{" "}
             <a
-              href="https://github.com/acenelio"
+              href="https://github.com/Edu25664"
               target="_blank"
               rel="noreferrer"
             >
-              Nelio Alves
+              Eduardo Oliveira Ramos
             </a>
           </p>
           <p className="text-light">
             <small>
-              <strong>Semana Spring React</strong>
+              <strong>Java | Hibernate | Apache Maven | Spring Boot | React</strong>
               <br />
-              Evento promovido pela escola DevSuperior:{" "}
-              <a
-                href="https://instagram.com/devsuperior.ig"
-                target="_blank"
-                rel="noreferrer"
-              >
-                @devsuperior.ig
-              </a>
             </small>
           </p>
         </div>
